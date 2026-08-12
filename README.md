@@ -131,7 +131,7 @@ CuriSense
 ## Clone the Repository
 
 ```bash
-(https://github.com/goodvaishnvi/CuriSense)
+https://github.com/goodvaishnvi/CuriSense
 ```
 
 ## Open the Project
