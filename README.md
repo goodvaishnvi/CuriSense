@@ -130,7 +130,7 @@ CuriSense
 
 ## Clone the Repository
 
-```bash[
+```bash
 (https://github.com/goodvaishnvi/CuriSense)
 ```
 
